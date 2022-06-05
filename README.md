@@ -1,9 +1,7 @@
-# Page Numbering
+# BMI Calculator
 
-This is a project showcasing manipulation of DOM Objects with vanilla Javascript.
-
-Clicking a page number changes the data displayed.
+This is a project showcasing skills in express, pug and Javascript.
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/ScKgnfD/screencapture-file-C-Users-edwar-One-Drive-Escritorio-Project-2-Starter-index-html-2022-05-20-14-55.png)
+![App Screenshot](https://i.ibb.co/MZLzLWq/BMICalculator.png)
