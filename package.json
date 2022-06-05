@@ -4,7 +4,7 @@
   "description": "Calculate the BMI with data provided.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "author": "Edward Peña",
   "license": "ISC",
