@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const port = process.env.PORT || 3000;
 
 app.set("view engine", "pug");
 app.use("/static", express.static("public"));
@@ -20,4 +21,4 @@ app.get("/:age/:weight/:height", (req, res) => {
   res.render("index", { age, weight, height, message });
 });
 
-app.listen(3000, () => console.log("Running on localhost 3000"));
+app.listen(port, () => console.log("Running on localhost " + port));
